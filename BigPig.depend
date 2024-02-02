@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1689413971 source:c:\users\ata_k\onedrive\masaüstü\projeler\c\bigpig\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1689326533 source:c:\users\ata_k\onedrive\masaüstü\projeler\c\bigpig\computer_strategy_decider.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1689329500 source:c:\users\ata_k\onedrive\masaüstü\projeler\c\bigpig\opening.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
